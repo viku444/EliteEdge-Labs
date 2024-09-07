@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910353541716",
+    "project_id": "eliteedge-labs",
+    "storage_bucket": "eliteedge-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910353541716:android:38159d54e950bd78061bc1",
+        "android_client_info": {
+          "package_name": "com.example.elite_edge_labs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6BSs_aRKUnHu50Sc5P7aZGv72PPM5yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.example.elite_edge_labs">
     <application
         android:label="elite_edge_labs"
         android:name="${applicationName}"
